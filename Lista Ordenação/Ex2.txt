@@ -1,0 +1,7 @@
+///Algoritmos de Ordenação Estaveis
+-Insertion sort
+-Bubble sort
+///Não-Estaveis
+-Quicksort
+///Podem ou não ser estaveis
+-Selection-Sort(depende do algoritmo)

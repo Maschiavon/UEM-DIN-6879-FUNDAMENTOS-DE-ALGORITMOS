@@ -1,0 +1,4 @@
+Metodos Pesquisados:Merge Sort, Bucket sort,Counting sort,Heapsort, Shell sort
+Após um tempo pesquisando , descubri que existem vairos metodos de ordenação pois
+há casos de problemas em que o algoritmo de ordenação genérico não resolve e também
+cada algoritmo possui alguma vantagem sobre os outros algoritmos para determinados problemas . 
